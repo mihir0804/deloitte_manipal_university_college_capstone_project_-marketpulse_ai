@@ -1,0 +1,7 @@
+2026-10-27 19:34:52.439 Installed websockets 17.3 with uvicorn 0.35.0 can abort the /_stcore/stream handshake when a reverse proxy forwards non-ASCII headers. Upgrade uvicorn to >= 0.52.0, or, on websockets 16.1, upgrade websockets to >= 16.1.1 and < 17.
+2026-10-27 19:34:52.473 Uvicorn server started on 0.0.0.0:8501
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://localhost:8501
+

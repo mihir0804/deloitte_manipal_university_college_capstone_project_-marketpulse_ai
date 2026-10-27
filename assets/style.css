@@ -1,0 +1,10 @@
+/* MarketPulse enterprise theme */
+html, body, [class*="css"] { font-family: "Inter", "Segoe UI", system-ui, sans-serif; }
+.block-container { padding-top: 2rem; max-width: 1400px; }
+h1 { color: #0f2a43; letter-spacing: -0.02em; }
+h2, h3 { color: #1f3b57; }
+[data-testid="stMetricValue"] { font-size: 1.9rem; color: #0f2a43; }
+[data-testid="stSidebar"] { background-color: #10263b; }
+[data-testid="stSidebar"] * { color: #dbe6f0; }
+.stDataFrame { font-size: 0.85rem; }
+button[kind="primary"] { background-color: #1f6feb; border-radius: 8px; }
