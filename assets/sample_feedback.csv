@@ -1,0 +1,26 @@
+review_id,customer_feedback,rating,review_date,product,segment,channel
+R001,"The onboarding flow was smooth and the dashboard is intuitive. Love the real-time analytics!",5,2026-05-03,InsightHub Pro,Enterprise,web
+R002,"Pricing feels too high for a small team. We ended up postponing renewal until budget review.",2,2026-05-07,InsightHub Pro,Small Business,email
+R003,"Support responded within minutes and fixed my data export issue the same day. Excellent service.",5,2026-05-11,InsightHub Pro,Mid-Market,chat
+R004,"The mobile app keeps crashing when I open reports. Very frustrating during client meetings.",1,2026-05-14,InsightHub Mobile,Enterprise,app_store
+R005,"Decent product but I wish there was an integration with Slack. Would pay extra for it.",3,2026-05-18,InsightHub Pro,Mid-Market,web
+R006,"Reports take forever to load once my dataset grows past 50k rows. Performance needs work.",2,2026-05-22,InsightHub Pro,Enterprise,web
+R007,"Great value compared to CompetitorX which charges double for similar features.",4,2026-05-25,InsightHub Pro,Small Business,survey
+R008,"I don't understand the sentiment scores. The documentation is confusing and examples are missing.",2,2026-06-01,InsightHub Pro,Mid-Market,chat
+R009,"Love the new API! Automated our weekly customer feedback digest in one afternoon.",5,2026-06-03,InsightHub API,Enterprise,web
+R010,"Considered switching to DataPulse because their trial offered free migration help. We stayed only because switching costs felt risky.",3,2026-06-06,InsightHub Pro,Small Business,survey
+R011,"CSV import fails silently when columns have accents. Had to re-upload three times.",2,2026-06-09,InsightHub Pro,Mid-Market,email
+R012,"The team collaboration features are a standout. Comments and shared views save us hours every week.",5,2026-06-12,InsightHub Pro,Enterprise,web
+R013,"Okay product. Does what it says, nothing surprising either way.",3,2026-06-15,InsightHub Basic,Small Business,app_store
+R014,"Cancellation process was unclear and I got billed twice. Fixed now but it nearly cost us the contract.",1,2026-06-18,InsightHub Pro,Mid-Market,email
+R015,"Would love offline access for field work. Our consultants travel a lot without reliable internet.",4,2026-06-21,InsightHub Mobile,Enterprise,survey
+R016,"Onboarding took weeks because we needed custom SSO. Standard login worked fine though.",3,2026-06-24,InsightHub Pro,Enterprise,chat
+R017,"Sentiment accuracy improved after the last update. Fewer misclassified reviews now.",4,2026-06-27,InsightHub Pro,Mid-Market,web
+R018,"Too expensive versus CompetitorX. Their entry tier undercuts us and customers notice.",2,2026-07-01,InsightHub Pro,Small Business,survey
+R019,"Fantastic webinar series. The advanced filtering tutorial immediately improved how we segment customers.",5,2026-07-04,InsightHub Academy,Mid-Market,email
+R020,"Dashboard export to PDF loses formatting. Chart labels get cut off constantly.",2,2026-07-08,InsightHub Pro,Enterprise,web
+R021,"Reliable uptime so far. No outages in four months of daily use.",4,2026-07-11,InsightHub Pro,Enterprise,chat
+R022,"Wished the free trial lasted longer. Two weeks wasn't enough to test with real customer data.",3,2026-07-15,InsightHub Basic,Small Business,app_store
+R023,"The competitor tracking feature is unique - nobody else shows side-by-side review sentiment like this.",5,2026-07-18,InsightHub Pro,Mid-Market,survey
+R024,"Slow responses from support last month, but they resolved everything eventually.",3,2026-07-22,InsightHub Pro,Small Business,email
+R025,"Mobile notifications are useless, half of them are wrong. Disabled all alerts.",2,2026-07-25,InsightHub Mobile,Mid-Market,app_store
